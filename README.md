@@ -91,7 +91,7 @@ docker --version
 После выполнения команды `docker run --name containers02 containers02` в консоли было выведено сообщение:
 
 ```sh
-hello from <ba22bb067677d >
+hello from ba22bb067677d
 ```
 
 ![image](https://i.imgur.com/7zxDt1H.png)
